@@ -5,4 +5,4 @@ Aplicacion Web creada usando Webpack, React, React Hooks, Material UI, Sass.
 dev = Para desplegar el servidor de desarrollo
 build = Para construir la aplicacion para produccion.
 
-[Imgur](https://i.imgur.com/eeOjlAQ.png)
+![Imgur](https://i.imgur.com/eeOjlAQ.png)
